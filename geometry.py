@@ -8,7 +8,7 @@ from math import sqrt , pi
 
 #func 1
 def area_of_circle(radius):
-        x =  ((radius * pi)**2)
+        x =  ((radius**2)*pi)
         print(x)
         
 
