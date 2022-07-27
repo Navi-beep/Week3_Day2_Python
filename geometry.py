@@ -4,6 +4,7 @@
 from math import sqrt , pi
 
 
+
 #print(pi)
 
 #func 1
@@ -14,9 +15,8 @@ def area_of_circle(radius):
 
 #func 2
 def hypotenuse(a,b):
-        a = input(float("What is the length of your first side?: "))
-        b = input(float("What is the length of your second side?: "))
-        print(sqrt(a ** 2 + b ** 2))
+        x = (sqrt(a ** 2 + b ** 2))
+        print(x)
 
 #def func(x):
  #       x = 10
